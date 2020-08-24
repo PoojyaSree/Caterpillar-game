@@ -1,3 +1,3 @@
 # Caterpillar-game
-This project built using python(tkinter)
+I built a caterpillar game using python(tkinter)
 ![](Python-Turtle-Graphics-Caterpilargame.gif)
